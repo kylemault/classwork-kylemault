@@ -1,4 +1,6 @@
-
+# kyle mault
+# Module_2_Lab_Case_Study.py
+# will get a name and a students GPA and see if they made the deans list or Honor roll.
 while True:
     last_name = input("Enter the student's last name(or 'ZZZ' to quit): ")
 
